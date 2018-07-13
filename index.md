@@ -18,12 +18,12 @@ To be continued...
 
 # Tool & Setup
 
-| Name               |          Image            |
-|:-------------      |:--------------------------|
-| Sublime Text 3     | ![Octocat](https://www.sublimetext.com/images/logo.svg)                   |
-| Git Kraken         | ![Octocat](http://svgur.com/i/1Rc.svg)  |
-| Visual Studio Code | ![Octocat](http://www.iconninja.com/files/132/632/894/studio-microsoft-visual-windows-icon.png)  |
-| Ubuntu 18.04       | ![Octocat](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/2000px-Logo-ubuntu_cof-orange-hex.svg.png)  |
+| Name               |
+|:-------------      |
+| Sublime Text 3     |
+| Git Kraken         |
+| Visual Studio Code |
+| Ubuntu 18.04       |
 
 ### There's a horizontal rule below this.
 
