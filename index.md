@@ -18,12 +18,12 @@ To be continued...
 
 # Tool & Setup
 
-| Name               |                                Image                                      |
-|:-------------      |:--------------------------------------------------------------------------|
+| Name               |          Image            |
+|:-------------      |:--------------------------|
 | Sublime Text 3     | ![Octocat](https://www.sublimetext.com/images/logo.svg)                   |
-| Git Kraken         | ![Octocat](https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png)  |
-| Visual Studio Code | ![Octocat](https://user-images.githubusercontent.com/10379994/31985754-c56b8dba-b998-11e7-9705-a7f984433049.png)  |
-| Ubuntu 18.04       | ![Octocat](http://icons.iconarchive.com/icons/dakirby309/simply-styled/256/OS-Ubuntu-icon.png)  |
+| Git Kraken         | ![Octocat](http://svgur.com/i/1Rc.svg)  |
+| Visual Studio Code | ![Octocat](http://www.iconninja.com/files/132/632/894/studio-microsoft-visual-windows-icon.png)  |
+| Ubuntu 18.04       | ![Octocat](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/2000px-Logo-ubuntu_cof-orange-hex.svg.png)  |
 
 ### There's a horizontal rule below this.
 
