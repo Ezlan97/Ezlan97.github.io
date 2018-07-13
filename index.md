@@ -30,5 +30,5 @@ To be continued...
 
 <dl>
 <dt>Email</dt>
-<dd>testing</dd>
+<dd>eizs798@gmail.com</dd>
 </dl>
