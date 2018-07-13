@@ -8,18 +8,15 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# About Me
 
+New kid on the block. Eizlan is a Computer Science student with interest in computers, Web Development and passionate towards FOSS. He loves Linux and likes to promote it. Working as a freelancer, currently specialized in Laravel, Git and Bootstrap.
 
-# Hi! I'm Eizlan, a web develpor from Malaysia. Please take a look around.
+To be continued...
 
-## About Me
+# Header 2
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Code is not art, it’s engineering
 
 ### Header 3
 
