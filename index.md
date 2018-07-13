@@ -14,9 +14,13 @@ New kid on the block. Eizlan is a Computer Science student with interest in comp
 
 To be continued...
 
-# Header 2
+# War Cry
 
 > Code is not art, it’s engineering
+
+> Solve complex coding into simple coding
+
+> Learn, apply and improve
 
 ### Header 3
 
