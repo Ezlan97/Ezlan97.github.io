@@ -1,6 +1,6 @@
 title: Ezlan
 logo: /assets/img/haha.jpg
 description: Full Stack Web Developer and Linux Lover .
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
