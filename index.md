@@ -2,15 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
 # About Me
 
-New kid on the block. Eizlan is a Computer Science student with interest in computers, Web Development and passionate towards FOSS. He loves Linux and likes to promote it. Working as a freelancer, currently specialized in Laravel, Git and Bootstrap.
+New kid on the block. Eizlan is a Computer Science student with interest in computers, Web Development and passionate towards FOSS. He loves Linux and likes to promote it. Working as a freelancer, currently specialized in Laravel, GitHub, GitLab, Mysql, Heroku and Bootstrap.
 
 To be continued...
 
@@ -22,43 +16,14 @@ To be continued...
 
 > Learn, apply and improve
 
-### Header 3
+# Tool & Setup
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Name               |                                Image                                      |
+|:-------------      |:--------------------------------------------------------------------------|
+| Sublime Text 3     | ![Octocat](https://www.sublimetext.com/images/logo.svg)                   |
+| Git Kraken         | ![Octocat](https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png)  |
+| Visual Studio Code | ![Octocat](https://user-images.githubusercontent.com/10379994/31985754-c56b8dba-b998-11e7-9705-a7f984433049.png)  |
+| Ubuntu 18.04       | ![Octocat](http://icons.iconarchive.com/icons/dakirby309/simply-styled/256/OS-Ubuntu-icon.png)  |
 
 ### There's a horizontal rule below this.
 
