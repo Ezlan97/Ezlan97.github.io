@@ -16,9 +16,8 @@ To be continued...
 
 > Learn, apply and improve
 
-# Tool & Setup
+# Tool i use
 
-| Name               |
 |:-------------      |
 | Sublime Text 3     |
 | Git Kraken         |
